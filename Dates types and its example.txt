@@ -1,0 +1,70 @@
+Dates types and its example 
+
+1. int :
+ Integer numbers 
+example:
+(10, -5)
+
+
+
+2. float :
+used in floating-point numbers 
+example:
+(3.14, -0.5)
+
+
+3.complex:
+used in Complex numbers 
+example:
+(2 + 3j)
+
+
+
+4.list :
+ Mutable ordered collection 
+example:
+ [1, 2, 3])
+
+
+5.tuple :
+Immutable ordered collection
+ example:
+(1, 2, 3)
+
+
+6.rang: 
+Sequence of numbers 
+example:
+(range(5))
+
+
+
+7.str :
+ Unicode string 
+example:
+("Hello")
+
+
+
+8.dict:
+Key-value pairs  
+example:
+{"name": "Alice", "age": 25}
+
+9. arr:
+The array allows us to store multiple elements to the same data type in an orderly collection.
+types of array:
+one dimensional array.
+two dimensional array.
+three dimenbsional arrays.
+example:
+numbers = array.array('i', [1, 3, 5, 7])
+print(numbers)
+
+10. set:
+
+unorder ,mutable collection
+used in comma(,)
+example:
+{1,2,3}
+
